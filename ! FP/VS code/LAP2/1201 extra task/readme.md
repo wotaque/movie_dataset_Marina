@@ -1,8 +1,10 @@
 # Marina's extra task:  
 
-1. Copy link and clone repo via VS code. 
+1. Copy link and clone repo via `VS code`. 
 
-2. Run: docker-compose up to start the server. 
+2. Open `Docker Desktop`
+
+3. Run `docker-compose up` to start the server. 
 
 
 # TASK:
